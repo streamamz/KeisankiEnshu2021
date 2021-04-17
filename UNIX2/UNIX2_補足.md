@@ -12,7 +12,7 @@ ssh s2126??@dover.eps.s.u-tokyo.ac.jp
 ssh s2126??@dover
 ```
 - SCPファイル転送(例:dover)
-- 
+
 -ファイルをdoverの~(ホームディレクトリ)へ送る(自宅から)
 ```
 scp okurimono s2126??@dover.eps.s.u-tokyo.ac.jp:
