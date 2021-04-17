@@ -55,3 +55,11 @@ scp -r okurimono_dir s2126??@dover:
 ```
 scp -r s2126??@dover:moraimono_dir .
 ```
+- 559のファイルについて
+edu,sakura,asanoは/home1/と/home2/が共有されています。
+doverは独立しています。（セキュリティのため）
+自宅から559で編集したファイルを取りに行くときは、
+まずdoverにログインし、scpでsakuraからdoverに取ってきて、
+次にdoverからログアウトして、scpでdoverから自宅に取ってきましょう。
+逆もまた同じです。やってみてください。
+(eduにもSSH/SCPできますが、うまくいかないことがあるので使わないでください。ファイルサーバのsakuraを使いましょう)
