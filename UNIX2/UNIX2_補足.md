@@ -2,6 +2,7 @@
 ## SSH/SCP早わかり表
 SSH/SCP早わかり表
 - SSHログイン(例:dover)
+
 -自宅から
 ```
 ssh s2126??@dover.eps.s.u-tokyo.ac.jp
@@ -56,6 +57,7 @@ scp -r okurimono_dir s2126??@dover:
 scp -r s2126??@dover:moraimono_dir .
 ```
 - 559のファイルについて
+
 edu,sakura,asanoは/home1/と/home2/が共有されています。
 doverは独立しています。（セキュリティのため）
 自宅から559で編集したファイルを取りに行くときは、
