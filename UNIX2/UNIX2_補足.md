@@ -66,3 +66,17 @@ doverは独立しています。（セキュリティのため）
 次にdoverからログアウトして、scpでdoverから自宅に取ってきましょう。
 逆もまた同じです。やってみてください。
 (eduにもSSH/SCPできますが、うまくいかないことがあるので使わないでください。ファイルサーバのsakuraを使いましょう)
+
+# 補足URL
+- 公開鍵認証関連
+
+https://qiita.com/kazokmr/items/754169cfa996b24fcbf5
+
+- SSH関連
+
+https://qiita.com/tabu_ichi2/items/446722c15e6b5678ccad
+
+- Vim関連
+
+https://qiita.com/meio/items/08143eacd174ac0f7bd5
+
